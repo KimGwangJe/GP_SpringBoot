@@ -4,6 +4,7 @@
 3명 (프론트 1명, 백엔드 1명, 데이터 1명) </br>
 
 **🛠️ 개발 스택**
+
 Java, SpringBoot 3.x.x, Spring Data JPA, Spring Security, Redis, MySQL, JWT
 
 ### 📢 프로젝트 소개
