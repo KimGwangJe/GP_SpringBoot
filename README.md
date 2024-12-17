@@ -5,7 +5,7 @@
 
 **🛠️ 개발 스택**
 
-Java, SpringBoot 3.x.x, Spring Data JPA, Spring Security, Redis, MySQL, JWT
+Java, SpringBoot 3.x.x, Spring Data JPA, Spring Security, Redis, MySQL, JWT, Docker, AWS EC2
 
 ### 📢 프로젝트 소개
 이 프로젝트는 호서대학교 학생들을 위한 챗봇 서비스입니다.
